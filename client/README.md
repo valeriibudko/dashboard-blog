@@ -1,5 +1,3 @@
-## Dashboard blog
-
 # Local deploy
 
 - `npm install`
