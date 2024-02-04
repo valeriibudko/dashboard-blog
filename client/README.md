@@ -1,4 +1,4 @@
-# Local deploy
+### Deploy
 
 - `npm install`
 - `npm run dev`
