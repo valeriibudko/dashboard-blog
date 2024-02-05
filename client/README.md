@@ -1,4 +1,4 @@
-### Deploy
+### Development
 
 - `npm install`
 - `npm run dev`
