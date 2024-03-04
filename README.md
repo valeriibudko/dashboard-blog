@@ -14,4 +14,5 @@ Api:
 Client:
 - [React](https://react.dev/)
 - [Tailwind](https://tailwindcss.com/docs/guides/vite)
+- [Redux](https://redux-toolkit.js.org/)
 
