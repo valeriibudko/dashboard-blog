@@ -13,6 +13,7 @@ Api:
 
 Client:
 - [React](https://react.dev/)
-- [Tailwind](https://tailwindcss.com/docs/guides/vite)
 - [Redux](https://redux-toolkit.js.org/)
+- [Tailwind](https://tailwindcss.com/docs/guides/vite)
+- [Firebase](https://firebase.google.com/)
 
