@@ -18,8 +18,7 @@ const userSchema = new mongoose.Schema(
     },
     profilePicture: {
       type: String,
-      // default: 'https://isobarscience-1bfd8.kxcdn.com/wp-content/uploads/2020/09/default-profile-picture1.jpg'
-      default: '../src/assets/default-profile.jpg'
+      default: '/images/default-profile.jpg'
     }, 
   },
   { timestamps: true }
